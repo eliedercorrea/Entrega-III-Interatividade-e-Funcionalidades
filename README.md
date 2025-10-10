@@ -40,10 +40,3 @@ entrega_III_site/
          ├─ home.js
          ├─ projetos.js
          └─ cadastro.js
-
-## Publicar no GitHub
-1. Crie um repositório **público** e envie estes arquivos (ou adicione a pasta `assets/js` ao projeto já publicado das Entregas I/II).
-2. Ative o **GitHub Pages** (Branch `main`, diretório `/root`).
-3. Envie o link público conforme solicitado.
-
-Boa Entrega!
