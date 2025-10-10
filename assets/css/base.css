@@ -1,0 +1,10 @@
+:root{--color-text:#e5e7eb;--color-border:#1f2937;--color-surface:#111827;--color-card:#0f172a;--color-primary-500:#3b82f6;--color-primary-700:#1d4ed8;--container:1200px;--gutter:16px}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,Segoe UI,Roboto,sans-serif;background:#0b1220;color:var(--color-text)}.container{max-width:var(--container);margin:0 auto;padding:0 var(--gutter)}
+header{position:sticky;top:0;background:rgba(17,24,39,.8);backdrop-filter:blur(8px);border-bottom:1px solid var(--color-border);z-index:50}
+.header-inner{display:flex;align-items:center;justify-content:space-between;padding:10px 0}.brand{display:flex;align-items:center;gap:8px}.brand img{height:36px}
+.nav{display:flex;align-items:center;gap:12px}.nav a{padding:8px 12px;border-radius:10px}
+footer{margin-top:40px;border-top:1px solid var(--color-border);background:rgba(17,24,39,.7)}footer .inner{display:flex;justify-content:space-between;padding:12px 0}
+.surface{background:var(--color-surface);border:1px solid var(--color-border);border-radius:14px;padding:16px}
+.btn{display:inline-flex;align-items:center;padding:10px 14px;border-radius:12px;border:1px solid rgba(255,255,255,.2)}.btn-primary{background:var(--color-primary-500);color:#fff}
+.card{background:var(--color-card);border:1px solid var(--color-border);border-radius:12px;padding:12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
