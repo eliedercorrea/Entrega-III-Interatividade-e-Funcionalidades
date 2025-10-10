@@ -40,12 +40,6 @@ entrega_III_site/
          ├─ home.js
          ├─ projetos.js
          └─ cadastro.js
-```
-
-## Como rodar
-- Abra `index.html` e use os links do topo para navegar. Tudo funciona sem build.
-- Os cadastros ficam salvos no `localStorage` e aparecem na tabela da rota **Cadastro**.
-- Erros de consistência aparecem em lista e como toast; sucesso abre modal.
 
 ## Publicar no GitHub
 1. Crie um repositório **público** e envie estes arquivos (ou adicione a pasta `assets/js` ao projeto já publicado das Entregas I/II).
