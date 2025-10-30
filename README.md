@@ -16,9 +16,9 @@
 ## Estrutura
 ```
 entrega_III_site/
-├─ index.html                 # SPA
+├─ index.html
 └─ assets/
-   ├─ css/                    # pode reutilizar o da Entrega II; inclui um main mínimo aqui
+   ├─ css/
    │  ├─ main.css
    │  ├─ base.css
    │  ├─ layout.css
